@@ -553,7 +553,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Cars2.Domain": "1.0.0"
+          "Cars2.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10"
         },
         "compile": {
           "bin/placeholder/Cars2.Infrastructure.dll": {}
