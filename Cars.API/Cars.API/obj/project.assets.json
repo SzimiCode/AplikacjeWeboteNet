@@ -3556,8 +3556,8 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Cars.Infrastructure >= 1.0.0",
-      "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.10",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -3610,11 +3610,11 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.10, )"
           },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
+          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[8.0.10, )"
           },

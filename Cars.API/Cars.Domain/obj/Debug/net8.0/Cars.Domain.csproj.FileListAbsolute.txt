@@ -1,0 +1,12 @@
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\bin\Debug\net8.0\Cars.Domain.deps.json
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\bin\Debug\net8.0\Cars.Domain.dll
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\bin\Debug\net8.0\Cars.Domain.pdb
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.AssemblyInfoInputs.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.AssemblyInfo.cs
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.sourcelink.json
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.dll
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\refint\Cars.Domain.dll
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\Cars.Domain.pdb
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.Domain\obj\Debug\net8.0\ref\Cars.Domain.dll
