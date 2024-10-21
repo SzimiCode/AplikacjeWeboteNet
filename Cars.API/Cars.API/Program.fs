@@ -1,5 +1,7 @@
 namespace Cars.API
 #nowarn "20"
+open Cars.Infrastructure
+
 open System
 open System.Collections.Generic
 open System.IO
@@ -14,6 +16,7 @@ open Microsoft.Extensions.DependencyInjection
 open Microsoft.Extensions.Hosting
 open Microsoft.Extensions.Logging
 
+
 module Program =
     let exitCode = 0
 
@@ -25,7 +28,7 @@ module Program =
         builder.Services.AddControllers()
 
         builder.Services.AddDbContext<DataContext>(opt => {
-        opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConntection"));
+        opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
         })
 
         let app = builder.Build()
