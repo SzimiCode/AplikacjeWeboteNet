@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Cars.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Cars.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Domain.dll": {}
+        }
+      },
+      "Cars.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Cars.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cars.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cars.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Domain/Cars.Domain.csproj",
+      "msbuildProject": "../Cars.Domain/Cars.Domain.csproj"
+    },
+    "Cars.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Infrastructure/Cars.Infrastructure.csproj",
+      "msbuildProject": "../Cars.Infrastructure/Cars.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Cars.Domain >= 1.0.0",
+      "Cars.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\szyme\\.nuget\\packages\\": {}
@@ -34,7 +72,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Domain\\Cars.Domain.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Domain\\Cars.Domain.csproj"
+            },
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

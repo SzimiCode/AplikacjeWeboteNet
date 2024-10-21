@@ -55,6 +55,43 @@
             "locale": "zh-Hant"
           }
         }
+      },
+      "Cars.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Cars.Domain": "1.0.0",
+          "Cars.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cars.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Application.dll": {}
+        }
+      },
+      "Cars.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Cars.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Domain.dll": {}
+        }
+      },
+      "Cars.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Cars.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cars.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -100,10 +137,26 @@
         "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll",
         "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll"
       ]
+    },
+    "Cars.Application/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Application/Cars.Application.csproj",
+      "msbuildProject": "../Cars.Application/Cars.Application.csproj"
+    },
+    "Cars.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Domain/Cars.Domain.csproj",
+      "msbuildProject": "../Cars.Domain/Cars.Domain.csproj"
+    },
+    "Cars.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Infrastructure/Cars.Infrastructure.csproj",
+      "msbuildProject": "../Cars.Infrastructure/Cars.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Cars.Application >= 1.0.0",
       "FSharp.Core >= 8.0.300"
     ]
   },
@@ -135,7 +188,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Application\\Cars.Application.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Application\\Cars.Application.csproj"
+            }
+          }
         }
       },
       "restoreAuditProperties": {
