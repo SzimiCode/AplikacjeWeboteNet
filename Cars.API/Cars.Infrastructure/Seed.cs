@@ -38,6 +38,32 @@ namespace Cars.Infrastructure
                     ProductionDate = DateTime.UtcNow.AddMonths(-1),
                     CarFuelConsumption = 18.12,
                     BodyType = BodyType.SUV
+                },
+                new Car
+                {
+                    Id = Guid.NewGuid(),
+                    Brand = "Toyota",
+                    Model = "Corolla",
+                    DoorsNumber = 4,
+                    LuggageCapactiy = 500,
+                    EngineCapactiy = 1600,
+                    FuelType = FuelType.Petrol,
+                    ProductionDate = new DateTime(2020, 5, 15),
+                    CarFuelConsumption = 5.8,
+                    BodyType = BodyType.Sedan
+                },
+                new Car
+                {
+                    Id = Guid.NewGuid(),
+                    Brand = "Ford",
+                    Model = "Focus",
+                    DoorsNumber = 5,
+                    LuggageCapactiy = 550,
+                    EngineCapactiy = 1800,
+                    FuelType = FuelType.Diesel,
+                    ProductionDate = new DateTime(2018, 8, 25),
+                    CarFuelConsumption = 6.1,
+                    BodyType = BodyType.Hatchback
                 }
               };
  

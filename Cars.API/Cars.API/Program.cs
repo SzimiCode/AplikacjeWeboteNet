@@ -46,6 +46,8 @@ try
 {
     var context = services.GetRequiredService<DataContext>();
     context.Database.Migrate();
+    // Dodanie przyk³adowych danych do bazy
+    await Seed.SeedData(context);
 }
 catch (Exception ex)
 {
