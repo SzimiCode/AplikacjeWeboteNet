@@ -2,7 +2,7 @@
 {
     public enum FuelType { Petrol, Hybrid, Diesel, LPG }
     public enum BodyType { Hatchback, Sedan, Kombi, SUV, Roadster }
-    public class Class1
+    public class Car
     {
         public Guid Id { get; set; }
         public string Brand { get; set; }
