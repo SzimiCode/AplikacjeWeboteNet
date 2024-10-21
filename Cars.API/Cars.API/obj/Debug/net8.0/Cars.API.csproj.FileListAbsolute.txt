@@ -1,0 +1,8 @@
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.csproj.AssemblyReference.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.AssemblyInfoInputs.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.AssemblyInfo.cs
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.csproj.CoreCompileInputs.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szyme\OneDrive\Dokumenty\Ważne\InformatykaTutaj\Aplikacje Webowe .Net\AplikacjeWeboteNet\Cars.API\Cars.API\obj\Debug\net8.0\Cars.API.sourcelink.json
