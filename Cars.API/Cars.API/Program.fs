@@ -24,6 +24,10 @@ module Program =
 
         builder.Services.AddControllers()
 
+        builder.Services.AddDbContext<DataContext>(opt => {
+        opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConntection"));
+        })
+
         let app = builder.Build()
 
         app.UseHttpsRedirection()
