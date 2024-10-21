@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[8.0.300, )",
               "generatePathProperty": true
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
             }
           },
           "imports": [
