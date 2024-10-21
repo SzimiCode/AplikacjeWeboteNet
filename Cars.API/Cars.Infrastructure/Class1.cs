@@ -1,7 +1,5 @@
 ﻿namespace Cars.Infrastructure
 {
-    public class Class1
-    {
         public enum FuelType { Petrol, Hybrid, Diesel, LPG }
         public enum BodyType { Hatchback, Sedan, Kombi, SUV, Roadster }
         public class Car
@@ -18,5 +16,4 @@
             public BodyType BodyType { get; set; }
 
         }
-    }
 }
