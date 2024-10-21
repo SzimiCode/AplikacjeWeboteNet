@@ -16,6 +16,7 @@ namespace Cars.Infrastructure
             var cars = new List<Car>
             {
                 new Car  {
+                            
                             Brand = "Mazda",
                             Model = "СХ60",
                             DoorsNumber = 5,

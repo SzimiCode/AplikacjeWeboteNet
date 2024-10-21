@@ -24,6 +24,7 @@ namespace Cars.API.Controllers
 
         public async Task<ActionResult<Car>> GetCar(Guid id)
         {
+            Console.WriteLine($"Received ID: {id}");
             return await _context.Cars.FindAsync(id);
         }
     }
