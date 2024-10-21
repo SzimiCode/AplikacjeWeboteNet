@@ -67,10 +67,7 @@ namespace Cars.Infrastructure
                     BodyType = BodyType.Hatchback
                 }
               };
-            await context.Cars.AddRangeAsync(cars);
-
-            // Zapisanie zmian w bazie
-            await context.SaveChangesAsync();
+          
         }
     }
 }
