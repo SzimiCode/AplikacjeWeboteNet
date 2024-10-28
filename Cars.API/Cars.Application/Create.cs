@@ -13,7 +13,7 @@ namespace Cars.Application
     {
         public class Command : IRequest<Car>
         {
-            public Car car { get; set; }
+            public Car Car { get; set; }
         }
         public class Handler : IRequestHandler<Command, Car>
         {
