@@ -46,6 +46,11 @@ namespace Cars.API.Controllers
 
 
         [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteCar(Guid id)
+        {
+            await Mediator.Send(new Delete.Command { Id = id });
+            return NoContent();
+        }
 
 
 
