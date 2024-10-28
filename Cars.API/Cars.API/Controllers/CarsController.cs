@@ -38,6 +38,14 @@ namespace Cars.API.Controllers
             return Ok();
         }
 
+        [HttpPost]
+        public async Task<ActionResult<Car>> CreateCar(Car car)
+        {
+            car.Id =car.Id;
+            await Mediator.Send(new Create.);
+        }
+
+
 
 
 
