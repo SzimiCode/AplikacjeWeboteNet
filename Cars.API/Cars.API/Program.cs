@@ -1,5 +1,8 @@
 using Cars.Infrastructure;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
+using Microsoft.Extensions.DependencyInjection;
+using Cars.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +24,8 @@ builder.Services.AddCors(opt =>
         policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:7072");
     });
 });
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(List.Handler).Assembly));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

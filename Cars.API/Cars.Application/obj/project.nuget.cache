@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TNVpCA1l08s=",
+  "dgSpecHash": "Z1gk59FNsFI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Application\\Cars.Application.csproj",
+  "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\szyme\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\szyme\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

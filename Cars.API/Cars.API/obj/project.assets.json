@@ -59,6 +59,36 @@
           }
         }
       },
+      "MediatR/12.4.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR.Contracts": "[2.0.1, 3.0.0)",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "compile": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MediatR.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MediatR.Contracts/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1749,6 +1779,21 @@
           }
         }
       },
+      "Cars.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Cars.Domain": "1.0.0",
+          "Cars.Infrastructure": "1.0.0",
+          "MediatR": "12.4.1"
+        },
+        "compile": {
+          "bin/placeholder/Cars.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cars.Application.dll": {}
+        }
+      },
       "Cars.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1834,6 +1879,37 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MediatR/12.4.1": {
+      "sha512": "0tLxCgEC5+r1OCuumR3sWyiVa+BMv3AgiU4+pz8xqTc+2q1WbUEXFOr7Orm96oZ9r9FsldgUtWvB2o7b9jDOaw==",
+      "type": "package",
+      "path": "mediatr/12.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "gradient_128x128.png",
+        "lib/net6.0/MediatR.dll",
+        "lib/net6.0/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "mediatr.12.4.1.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Contracts/2.0.1": {
+      "sha512": "FYv95bNT4UwcNA+G/J1oX5OpRiSUxteXaUt2BJbRSdRNiIUNbggJF69wy6mnk2wYToaanpdXZdCwVylt96MpwQ==",
+      "type": "package",
+      "path": "mediatr.contracts/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/netstandard2.0/MediatR.Contracts.dll",
+        "lib/netstandard2.0/MediatR.Contracts.xml",
+        "mediatr.contracts.2.0.1.nupkg.sha512",
+        "mediatr.contracts.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4748,6 +4824,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Cars.Application/1.0.0": {
+      "type": "project",
+      "path": "../Cars.Application/Cars.Application.csproj",
+      "msbuildProject": "../Cars.Application/Cars.Application.csproj"
+    },
     "Cars.Domain/1.0.0": {
       "type": "project",
       "path": "../Cars.Domain/Cars.Domain.csproj",
@@ -4761,7 +4842,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Cars.Application >= 1.0.0",
       "Cars.Infrastructure >= 1.0.0",
+      "MediatR >= 12.4.1",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.10",
@@ -4774,11 +4857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Cars.API.csproj",
+      "projectUniqueName": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
       "projectName": "Cars.API",
-      "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Cars.API.csproj",
+      "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
       "packagesPath": "C:\\Users\\szyme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\obj\\",
+      "outputPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szyme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4796,8 +4879,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj"
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj"
+            },
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj"
             }
           }
         }
@@ -4817,6 +4903,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.4.1, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

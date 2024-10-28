@@ -2,11 +2,49 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Cars.Domain;
+using MediatR;
+using System.Collections.Generic;
+using Cars.Application;
+using System.ComponentModel.DataAnnotations;
 
 namespace Cars.API.Controllers
 {
     public class CarsController : BaseApiController
     {
+
+        private readonly IMediator _mediator; 
+
+        public CarsController(IMediator mediator)
+        {
+            _mediator = mediator;
+        }
+        [HttpGet] //api/cars
+
+        public async Task<ActionResult<List<Car>>> GetCars()
+        {
+            return await Mediator.Send(new List.Query());
+        }
+        [HttpGet("{id}")] // /api/cars/id
+        public async Task<ActionResult<Car>> GetCar(Guid id)
+        {
+            return await Mediator.Send(new Details.Query { Id = id });
+        }
+
+        [HttpPut("{id}")] 
+        public async Task<IActionResult> EditCar(Guid id, Car car)
+        {
+            car.Id = id;
+            await Mediator.Send(new Edit.Command { Car = car });
+            return Ok();
+        }
+
+
+
+
+
+
+
+        /*
         private readonly DataContext _context;
 
         public CarsController(DataContext context)
@@ -56,7 +94,7 @@ namespace Cars.API.Controllers
             return CreatedAtAction(nameof(GetCar), new { id = car.Id }, car);
         }
 
-
+        */
 
 
     }

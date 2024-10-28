@@ -1104,7 +1104,10 @@
       },
       "Cars.Domain/1.0.0": {
         "runtime": {
-          "Cars.Domain.dll": {}
+          "Cars.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Cars.Infrastructure/1.0.0": {
@@ -1113,7 +1116,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10"
         },
         "runtime": {
-          "Cars.Infrastructure.dll": {}
+          "Cars.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

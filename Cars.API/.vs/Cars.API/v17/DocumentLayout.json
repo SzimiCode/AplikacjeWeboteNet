@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\",
+  "WorkspaceRootPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.infrastructure\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|solutionrelative:cars.infrastructure\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|solutionrelative:cars.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.application\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|solutionrelative:cars.application\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16C27AA2-7DE1-4945-A88D-C779B5C76AAF}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16C27AA2-7DE1-4945-A88D-C779B5C76AAF}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.application\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|solutionrelative:cars.application\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.infrastructure\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.application\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|solutionrelative:cars.application\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C27AA2-7DE1-4945-A88D-C779B5C76AAF}|Cars.Domain\\Cars.Domain.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C27AA2-7DE1-4945-A88D-C779B5C76AAF}|Cars.Domain\\Cars.Domain.csproj|solutionrelative:cars.domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.infrastructure\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|solutionrelative:cars.infrastructure\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86644246-0101-438A-9A32-7CF130E3A55E}|Cars.Application\\Cars.Application.csproj|solutionrelative:cars.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.infrastructure\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93290E19-43ED-4DBD-A90C-D5461B8BA61B}|Cars.Infrastructure\\Cars.Infrastructure.csproj|solutionrelative:cars.infrastructure\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.api\\cars.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.api\\cars.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\cars.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet\\cars.api\\cars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|c:\\users\\szyme\\onedrive\\dokumenty\\wa\u017Cne\\informatykatutaj\\aplikacje webowe .net\\aplikacjewebotenet2\\cars.api\\cars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5F7728B-7584-4AC8-BCB8-38D347FA79E0}|Cars.API\\Cars.API.csproj|solutionrelative:cars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,117 +70,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "Cars.API\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "Cars.API\\Controllers\\CarsController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAhwBsAAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Edit.cs",
+              "RelativeDocumentMoniker": "Cars.Application\\Edit.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Edit.cs",
+              "RelativeToolTip": "Cars.Application\\Edit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:55:33.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T08:21:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Details.cs",
+              "RelativeDocumentMoniker": "Cars.Application\\Details.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Details.cs",
+              "RelativeToolTip": "Cars.Application\\Details.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:54:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\List.cs",
+              "RelativeDocumentMoniker": "Cars.Application\\List.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\List.cs",
+              "RelativeToolTip": "Cars.Application\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:22:34.281Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Cars.API\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Cars.API\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:33.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Controllers\\BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "Cars.API\\Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Controllers\\BaseApiController.cs",
               "RelativeToolTip": "Cars.API\\Controllers\\BaseApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T12:46:45.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Seed.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Seed.cs",
               "RelativeDocumentMoniker": "Cars.Infrastructure\\Seed.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Seed.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Seed.cs",
               "RelativeToolTip": "Cars.Infrastructure\\Seed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAASAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:20:17.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T12:20:17.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Cars.API.http",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Cars.API.http",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.http",
               "RelativeDocumentMoniker": "Cars.API\\Cars.API.http",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Cars.API.http",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.http",
               "RelativeToolTip": "Cars.API\\Cars.API.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-10-21T11:59:56.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\appsettings.json",
               "RelativeDocumentMoniker": "Cars.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\appsettings.json",
               "RelativeToolTip": "Cars.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-21T11:57:01.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Program.cs",
               "RelativeDocumentMoniker": "Cars.API\\Program.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.API\\Program.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Program.cs",
               "RelativeToolTip": "Cars.API\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:05:06.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:05:06.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\DataContext.cs",
               "RelativeDocumentMoniker": "Cars.Infrastructure\\DataContext.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\DataContext.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\DataContext.cs",
               "RelativeToolTip": "Cars.Infrastructure\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T11:53:48.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Domain\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Domain\\Car.cs",
               "RelativeDocumentMoniker": "Cars.Domain\\Car.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Domain\\Car.cs",
               "RelativeToolTip": "Cars.Domain\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:51:51.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:51:51.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Application\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Cars.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wa\u017Cne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Class1.cs",
               "RelativeToolTip": "Cars.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:06:59.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:06:59.53Z"
             }
           ]
         }

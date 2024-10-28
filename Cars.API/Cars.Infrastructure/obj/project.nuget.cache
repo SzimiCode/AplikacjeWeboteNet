@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRZTNL1rxsQ=",
+  "dgSpecHash": "r60jdS6QtGI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.10\\microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",

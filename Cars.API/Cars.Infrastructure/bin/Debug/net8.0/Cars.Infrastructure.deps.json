@@ -329,7 +329,10 @@
       "System.Memory/4.5.3": {},
       "Cars.Domain/1.0.0": {
         "runtime": {
-          "Cars.Domain.dll": {}
+          "Cars.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
