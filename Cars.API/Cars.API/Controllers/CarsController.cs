@@ -41,11 +41,11 @@ namespace Cars.API.Controllers
         [HttpPost]
         public async Task<ActionResult<Car>> CreateCar(Car car)
         {
-            car.Id =car.Id;
-            await Mediator.Send(new Create.);
+            return await Mediator.Send(new Create.Command { Car = car });
         }
 
 
+        [HttpDelete("{id}")]
 
 
 
