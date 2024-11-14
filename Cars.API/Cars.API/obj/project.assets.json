@@ -4857,11 +4857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
+      "projectUniqueName": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
       "projectName": "Cars.API",
-      "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
+      "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\Cars.API.csproj",
       "packagesPath": "C:\\Users\\szyme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\obj\\",
+      "outputPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szyme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4879,11 +4879,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj": {
-              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj"
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Application\\Cars.Application.csproj"
             },
-            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Ważne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj"
+            "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\szyme\\OneDrive\\Dokumenty\\Wazne\\InformatykaTutaj\\Aplikacje Webowe .Net\\AplikacjeWeboteNet2\\Cars.API\\Cars.Infrastructure\\Cars.Infrastructure.csproj"
             }
           }
         }
